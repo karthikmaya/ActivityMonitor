@@ -1,0 +1,11 @@
+Step Length = 2 sqe lh-h^2 (http://www.sciencedirect.com/science/article/pii/S096663620200190X )
+
+In this equation, h is equal to the change in height of the CoM, and l equals pendulum length. 
+Changes in vertical position were calculated by a double integration of Y. 
+To avoid integration drift, position data were high-pass filtered (fourth-order zero-lag Butterworth filter at 0.1 Hz).
+The amplitude of changes in vertical position (h) was determined as the difference between highest and
+lowest position during a step cycle. Leg length was taken as pendulum length (l). 
+From these data, step lengths were estimated.
+After step lengths were estimated for 20 subsequent steps, a mean step length was calculated. 
+From the same 20 steps, mean step duration was calculated. For each subject 
+and each belt speed condition, mean step length divided by mean step duration was used to estimate walking speed.
